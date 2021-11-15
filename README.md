@@ -11,16 +11,18 @@
 
 ## <samp>My Tech Stack </samp>
 
-[![Python](https://img.shields.io/badge/-Java8-black?style=flat&logo=java&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
-[![VisualStudio](https://img.shields.io/badge/-VisualStudio-black?style=flat&logo=visual-studio&link=https://github.com/KATREDDIDURGA&logoColor=522D91)](https://github.com/KATREDDIDURGA)
-[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-black?style=flat&logo=visual-studio-code&link=https://github.com/KATREDDIDURGA&logoColor=007ACC)](https://github.com/KATREDDIDURGA)
-[![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-black?style=flat&logo=android-studio&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
-[![Azure](https://img.shields.io/badge/-MicrosoftAzure-black?style=flat&logo=microsoft-azure&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
+[![Python](https://img.shields.io/badge/-Java8-grey?style=social&logo=java&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
+[![Python](https://img.shields.io/badge/-Python-grey?style=social&logo=python&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
+[![VisualStudio](https://img.shields.io/badge/-VisualStudio-grey?style=social&logo=visual-studio&link=https://github.com/KATREDDIDURGA&logoColor=522D91)](https://github.com/KATREDDIDURGA)
+[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-grey?style=social&logo=visual-studio-code&link=https://github.com/KATREDDIDURGA&logoColor=007ACC)](https://github.com/KATREDDIDURGA)
+[![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-grey?style=social&logo=android-studio&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) [![Js](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
+[![Azure](https://img.shields.io/badge/-MicrosoftAzure-grey?style=social&logo=microsoft-azure&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
 
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=social&logo=css3&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
+[![Js](https://img.shields.io/badge/-Javascript-black?style=social&logo=javascript&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
+
+ [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
 
 
 ## My Quote
