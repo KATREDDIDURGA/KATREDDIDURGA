@@ -1,5 +1,5 @@
 # <samp> Katreddi Sri Sai Durga</samp>
-## 👨‍💻 Programmer Analyst Trainee | Active Learner 
+## 👨‍💻 Programmer Analyst | Active Learner 
 <a href="https://github.com/KATREDDIDURGA?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
 
 
