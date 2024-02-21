@@ -1,31 +1,59 @@
-# <samp> Katreddi Sri Sai Durga</samp>
-## 👨‍💻 Programmer Analyst | Active Learner 
-<a href="https://github.com/KATREDDIDURGA?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sri Sai Durga Katreddi | Master of Science, Data Science</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://path/to/your/style.css" rel="stylesheet" type="text/css"> <!-- Path to your CSS file -->
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Sri Sai Durga Katreddi</h1>
+      <p>Denton, Texas &bull; <a href="mailto:srisaidurgakatreddi@my.unt.edu">srisaidurgakatreddi@my.unt.edu</a> &bull; +1 917-400-7205</p>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/sri-sai-durga-katreddi/">LinkedIn</a></li>
+        <li><a href="https://github.com/KATREDDIDURGA">GitHub</a></li>
+      </ul>
+    </header>
 
+    <section class="education">
+      <h2>Education</h2>
+      <p><strong>University of North Texas</strong>, Denton, Texas<br>
+      <em>Master of Science, Data Science</em> &bull; Jan. 2023 – Dec. 2024</p>
+      <p><strong>Institute of Aeronautical Engineering</strong>, Telangana, India<br>
+      <em>Bachelor of Technology, Information Technology</em> &bull; May 2020</p>
+    </section>
 
-### Hey Techiee!!!!! 👋
+    <section class="experience">
+      <h2>Experience</h2>
+      <h3>PROGRAMMER ANALYST</h3>
+      <p><strong>COGNIZANT TECHNOLOGY SOLUTIONS</strong>, Hyderabad, India &bull; Dec. 2020 – Dec. 2022</p>
+      <ul>
+        <li>Collaborated on analyzing 10+ TB of data, delivering insights that informed sprint decisions, using SQL and Python for data visualization.</li>
+        <li>Managed over 50 weekly project tickets, enhancing project management and client results with better planning and product expertise.</li>
+        <li>Utilized data analytics to revamp digital banking interfaces, improving services by 20% for market positioning and brand fitness.</li>
+        <li>Revealed a perfect success score, ensuring the acquisition of potential and current projects for a future revenue increase.</li>
+      </ul>
 
-<samp> Get in touch with me on </samp> [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/twitter.svg" >](https://twitter.com/KatreddiD/) [<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/social/linkedin.svg" >](https://www.linkedin.com/in/katreddi-sri-sai-durga-bb953113a/)
+      <h3>CYBER SECURITY INTERN</h3>
+      <p><strong>SUPRAJA TECHNOLOGIES</strong>, Guntur, India &bull; Sep. 2018</p>
+      <ul>
+        <li>Engaged in vulnerability assessment and mitigation, shoring up new and unperceived menaces, for an early risk control.</li>
+        <li>Analyzed security thresholds, increasing the project adeptness for a brand unique in performance and health measures.</li>
+        <li>Championed new service rollouts, installing new food energy injections, driving interest, and resounding good contract and decisions.</li>
+      </ul>
+    </section>
 
-<!-- Add the images of social accounts-->
+    <section class="projects">
+      <h2>Projects</h2>
+      <!-- Add your project description here, following the same list layout -->
+    </section>
 
-## <samp>My Tech Stack </samp>
-
-[![Python](https://img.shields.io/badge/-Java8-grey?style=social&logo=java&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
-[![Python](https://img.shields.io/badge/-Python-grey?style=social&logo=python&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
-[![VisualStudio](https://img.shields.io/badge/-VisualStudio-grey?style=social&logo=visual-studio&link=https://github.com/KATREDDIDURGA&logoColor=522D91)](https://github.com/KATREDDIDURGA)
-[![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-grey?style=social&logo=visual-studio-code&link=https://github.com/KATREDDIDURGA&logoColor=007ACC)](https://github.com/KATREDDIDURGA)
-[![Azure](https://img.shields.io/badge/-MicrosoftAzure-grey?style=social&logo=microsoft-azure&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=social&logo=css3&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA) 
-[![Js](https://img.shields.io/badge/-Javascript-black?style=social&logo=javascript&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/KATREDDIDURGA)](https://github.com/KATREDDIDURGA)
-
-
-## My Quote
-
-> <samp>Choose Smart. Choices make destiny. Not luck!!!!!</samp>🙌🙌 
-
-> <samp>while(!(succeed = try()) </samp>👨‍💻
-
-
-
+    <section class="skills">
+      <h2>Technical Skills</h2>
+      <p><strong>Data Science</strong>: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Tableau; <strong>Big Data/Cloud</strong>: GCP, Hadoop, MySQl, Perforce for better support and good checking; <strong>ML/DL</strong>: Distinct machine and deep learning algorithms, including use in commercial and more check.</p>
+    </section>
+  </div>
+</body>
+</html>
