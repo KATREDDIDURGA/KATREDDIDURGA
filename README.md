@@ -28,13 +28,13 @@
   *SUPRAJA TECHNOLOGIES, Guntur, India*  
   *Sep. 2018*
   - Hacked the undefendable, shoring up client securities, and decommissioned data drips with zilch-day margins.
+### **Certifications**
+*ACCENTURE NORTH AMERICA DATA ANALYTICS AND VISUALIZATION, March 2024*
+*JOB SIMULATION ON FORAGE*
+ - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
+ - Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+ - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 
-## 🛠️ Projects Experience
-- **POI Recommendations Using Social Media** | *Python, Pandas, Jupyter Notebook* | *Apr. 2020*
-  - Designed a solution that wove into the unseen of the busybody's check-ins, check-outs, only a good whisper of what good food lies afoot.
-
-- **Brain Tumor Classification** | *TensorFlow, Sklearn, Numpy* | *Dec. 2023*
-  - Stitched a neural would to the eye, silhouetting the angst in the caverns of the knowledgeable’s revered white.
 
 ## 🔧 Technical Skills
 - **Programming Languages**: Python, Java, SQL
