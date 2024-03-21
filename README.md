@@ -28,7 +28,8 @@
   *SUPRAJA TECHNOLOGIES, Guntur, India*  
   *Sep. 2018*
   - Hacked the undefendable, shoring up client securities, and decommissioned data drips with zilch-day margins.
-### **Certifications**
+    
+## Certifications
 *ACCENTURE NORTH AMERICA DATA ANALYTICS AND VISUALIZATION, March 2024*
 *JOB SIMULATION ON FORAGE*
  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
