@@ -1,8 +1,8 @@
 # <samp>SRI SAI DURGA KATREDDI</samp>
-### 👨‍💻 Data Scientist & Programmer Analyst | 🎓 M.S. in Data Science | 🚀 Active Learner
+### 👨‍💻Building AI Solutions with Python| 🎓 M.S. in Data Science | Machine Learning | Building impactful solutions with data 
 > *Denton, Texas*  
 > ☎ +1 917-400-7205 | 📧 srisaidurgakatreddi@my.unt.edu  
-> [LinkedIn](https://www.linkedin.com/in/sri-sai-durga-katreddi-/), [GitHub](https://github.com/KATREDDIDURGA)
+> [LinkedIn](https://www.linkedin.com/in/sri-sai-durga/), [GitHub](https://github.com/KATREDDIDURGA)
 
 ### Hey Techiee!!!!! 👋
 
