@@ -21,13 +21,21 @@
 ### **PROGRAMMER ANALYST**  
   *Cognizant Technology Solutions, Hyderabad, India*  
   *Dec. 2020 – Dec. 2022*
-  - Analyzed 10+ TB of data to deliver data visualization insights, showing a new way for executives.
-  - Overhauled a major banking client's technology system, vastly improving the critical UX.
+  - Developed and deployed a predictive model using scikit-learn to forecast customer churn, achieving a precision rate
+of 84%.
+  - Conducted extensive feature engineering and data preprocessing on customer transaction data, resulting in a 15%
+improvement in model accuracy.
+  - Utilized SQL to extract and transform large datasets from MySQL databases, ensuring data integrity and
+consistency for machine learning tasks.
+  - Developed documentation and training materials for data workflows, enhancing team efficiency
 
 ### **CYBER SECURITY INTERN**  
   *SUPRAJA TECHNOLOGIES, Guntur, India*  
   *Sep. 2018*
-  - Hacked the undefendable, shoring up client securities, and decommissioned data drips with zilch-day margins.
+  - Gained hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), learning to identify and exploit security vulnerabilities in systems and applications.
+  - Conducted security assessments to evaluate and enhance the security posture of various systems.
+  - Collaborated with senior security professionals to analyze vulnerabilities, develop mitigation strategies, and improve overall system security.
+  - Assisted in preparing detailed reports and documentation on security findings and recommendations for risk management.
     
 ## Certifications
 *ACCENTURE NORTH AMERICA DATA ANALYTICS AND VISUALIZATION, March 2024*
@@ -35,6 +43,11 @@
  - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
  - Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
  - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+
+*DATA RUSH: UNT’S ULTIMATE REGRESSION CHALLENGE , March 2023 - April 2023*
+*KAGGLE’S DATA SCIENCE CHALLENGE*
+ - Secured second place for developing data-driven solutions in a competitive environment, demonstrating advanced
+data science skill
 
 
 ## 🔧 Technical Skills
