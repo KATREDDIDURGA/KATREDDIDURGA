@@ -1,63 +1,81 @@
-# <samp>SRI SAI DURGA KATREDDI</samp>
-### 👨‍💻Building AI Solutions with Python| 🎓 M.S. in Data Science | Machine Learning | Building impactful solutions with data 
-> *Denton, Texas*  
-> ☎ +1 917-400-7205 | 📧 srisaidurgakatreddi@my.unt.edu  
-> [LinkedIn](https://www.linkedin.com/in/sri-sai-durga/), [GitHub](https://github.com/KATREDDIDURGA)
+# <samp>🌟 Sri Sai Durga Katreddi</samp>  
+### 🚀 **Turning Data into Impact | AI Enthusiast | Data Detective**  
+🎓 **M.S. in Data Science** | 🌍 Denton, TX  
 
-### Hey Techiee!!!!! 👋
+---
 
-*Passionate about leveraging advanced data science techniques to drive business value and make social impact. With a penchant for pythonic code and thrives in the nuance of structured and normal distributions.*
+> _"In a world full of noise, I find patterns."_  
+> _"while(!(success = try())); // My favorite debugging mantra."_  
 
-## 🎓 Education
-- **Master of Science, Data Science**  
-  *University of North Texas, Denton, Texas*  
-  *Jan. 2023 – Dec. 2024*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sri-sai-durga-katreddi-/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat-square&logo=github)](https://github.com/Durga-Katreddi)  
+📬 [katreddisrisaidurga@gmail.com](mailto:katreddisrisaidurga@gmail.com) | ☎ +1 917-400-7205  
 
-- **Bachelor of Technology, Information Technology**  
-  *Institute of Aeronautical Engineering, Telangana, India*  
-  *Graduated: May. 2020*
+---
 
-## 💼 Experience
-### **PROGRAMMER ANALYST**  
-  *Cognizant Technology Solutions, Hyderabad, India*  
-  *Dec. 2020 – Dec. 2022*
-  - Developed and deployed a predictive model using scikit-learn to forecast customer churn, achieving a precision rate
-of 84%.
-  - Conducted extensive feature engineering and data preprocessing on customer transaction data, resulting in a 15%
-improvement in model accuracy.
-  - Utilized SQL to extract and transform large datasets from MySQL databases, ensuring data integrity and
-consistency for machine learning tasks.
-  - Developed documentation and training materials for data workflows, enhancing team efficiency
+### 🧑‍💻 About Me:  
+🌱 **Currently Growing:** AI systems, Transformers, and Data Science wizardry.  
+🎨 **Secret Talent:** Turning boring data into mesmerizing dashboards.  
+🎯 **Mission:** Empowering decision-making with actionable insights.  
 
-### **CYBER SECURITY INTERN**  
-  *SUPRAJA TECHNOLOGIES, Guntur, India*  
-  *Sep. 2018*
-  - Gained hands-on experience in Vulnerability Assessment and Penetration Testing (VAPT), learning to identify and exploit security vulnerabilities in systems and applications.
-  - Conducted security assessments to evaluate and enhance the security posture of various systems.
-  - Collaborated with senior security professionals to analyze vulnerabilities, develop mitigation strategies, and improve overall system security.
-  - Assisted in preparing detailed reports and documentation on security findings and recommendations for risk management.
-    
-## Certifications
-*ACCENTURE NORTH AMERICA DATA ANALYTICS AND VISUALIZATION, March 2024*
-*JOB SIMULATION ON FORAGE*
- - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture
- - Cleaned, modeled, and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
- - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+When I’m not training machine learning models or analyzing trends, you’ll find me experimenting with **AI for social good**, cracking jokes with pandas (the library, not the animal 🐼), or tuning hyperparameters for life.
 
-*DATA RUSH: UNT’S ULTIMATE REGRESSION CHALLENGE , March 2023 - April 2023*
-*KAGGLE’S DATA SCIENCE CHALLENGE*
- - Secured second place for developing data-driven solutions in a competitive environment, demonstrating advanced
-data science skill
+---
 
+## 🎓 **Education:**  
+**Master of Science in Data Science**  
+*University of North Texas* (2023 – 2024)  
 
-## 🔧 Technical Skills
-- **Programming Languages**: Python, Java, SQL
-- **Data Science Tools**: Tensorflow, PyTorch, Sklearn, Pandas, Numpy
-- **Cloud and Others**: AWS, Docker, Kubernetes, GitHub, Jupyter Notebooks
+**Bachelor of Technology in Information Technology**  
+*Institute of Aeronautical Engineering* (2020)  
 
-## 📬 Let's Virtually Connect!
-I'm ever poised for tech collaborations or an open natter on the digital fingerprints we're leaving for the morrow. Feel free to 📥 my inbox at [srisaidurgakatreddi@my.unt.edu](mailto:srisaidurgakatreddi@my.unt.edu) or swap hellos 🖐️ over on [LinkedIn](https://www.linkedin.com/in/sri-sai-durga-katreddi-/).
+---
 
-> "*Choose Smart. Choices make destiny. Not luck!!!!!*"
+## 💼 **Professional Mischief**:  
+### 🔧 **Data Analyst** @ University of North Texas (2023 - 2024):  
+- 🕵️ Dug through mountains of data to uncover gold (aka insights).  
+- 🎨 Created stunning visualizations that even Picasso would envy.  
+- 🤝 Collaborated with researchers to make data sing and dance (statistically speaking).  
 
-> "*while(!(succeed = try()));*"
+### 🤖 **Programmer Analyst** @ Cognizant Technology Solutions (2020 - 2022):  
+- Automated boring tasks and became the office superhero (VBA Macros + Python = 🦸).  
+- Built a Power BI dashboard that reduced report time by 15% and earned an “overtime hero” badge.  
+- Tuned an XGBoost model so sharp it could cut through inaccuracies.  
+
+### 🛡️ **Cybersecurity Intern** @ Supraja Technologies (2018):  
+- Learned the art of hacking (ethically 🕶️).  
+- Explored vulnerabilities like a detective on a mission.  
+
+---
+
+## 🚀 **Projects I’m Proud Of:**  
+- **Altriva**: RAG chatbot for alternative medicine. LLAMA + Transformers-powered assistant.  
+- **Brain Tumor Classification**: AI + TensorFlow = 94% MRI accuracy! (No brain cells harmed).  
+- **Financial Data Pipeline**: Automated, streamlined, and visualized trends with Spark + BigQuery.  
+
+---
+
+## 🏆 **Accomplishments & Quirks**:  
+- 🥈 **UNT DataRush Challenge**: Second place in regression showdown!  
+- 🎓 **Accenture Analytics Simulation**: Graduated top of my (imaginary) class.  
+- 🏅 **IBM Hackathon**: Analyzed food nutrition data because food + data = ❤️.
+
+---
+
+## ⚙️ **Skills That Pay the Bills:**  
+### 🖥️ Programming:  
+- Python, Java, SQL, VBA (Don’t worry, I can debug my own typos).  
+
+### 📊 Analytics & AI:  
+- TensorFlow, PyTorch, Hugging Face (No hugging pandas here).  
+- LLMs, Transformers, RAG (I train machines, not dragons 🐉).  
+
+### 🌐 Cloud & Big Data:  
+- GCP, Snowflake, BigQuery, Spark (I live in the cloud, figuratively).  
+
+---
+
+## 💡 **Fun Facts:**  
+- My favorite function is `def explore(data):` because why not?  
+- **Emoji-to-code ratio**: Always balanced.  
+- Favorite Debugging Ritual: “Console log until it works!”
