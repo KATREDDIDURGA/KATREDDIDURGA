@@ -65,6 +65,21 @@ When I’m not training machine learning models or analyzing trends, you’ll fi
 - **Financial Data Pipeline**: Automated, streamlined, and visualized trends with Spark + BigQuery.  
 
 ---
+## **My Repo Contains:**
+- **A Survey on Impact of Covid-19 on Education**: Data Analysis, Survey Methodology, Python, Pandas.
+- **Brain Tumor Detection**: Machine Learning, Image Processing, TensorFlow, CNN.
+- **Clustering for ALS Patient Data**: Data Clustering, K-Means, Python, Pandas.
+- **Convolutional Neural Network (CNN) for Image Classification**: CNN, TensorFlow, Keras, K-Fold Cross-Validation.
+- **Monet Painting Price Prediction - Linear Regression**: Machine Learning, Linear Regression, Python, Scikit-learn.
+- **Logistic Regression for Wine Quality Prediction**: Logistic Regression, Machine Learning, Python, Scikit-learn.
+- **Pet Adoption Database**: SQL, Database Management, Python.
+- **Prediction of Uninsured Rates in the US**: Machine Learning, Regression, Python, Pandas.
+- **Breast Cancer Diagnosis Prediction**: Machine Learning, Classification, Python, Scikit-learn.
+- **Text Classification with Naive Bayes**: Natural Language Processing, Text Classification, Naive Bayes, Python.
+- **Wildfire Prediction**: LSTM, Transformers, Machine Learning, NASA MODIS Data, Python.
+- **Altriva: AI-Powered Medical Assistant**: Retrieval-Augmented Generation, LangChain, FAISS, Streamlit, Python.
+---
+
 ## 🏅 Online Courses & Certifications  
 - **Udemy**:  
   - *Data Science A-Z: Real Life Exercises Included*  
