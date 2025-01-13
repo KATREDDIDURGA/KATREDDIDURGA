@@ -65,6 +65,18 @@ When I’m not training machine learning models or analyzing trends, you’ll fi
 - **Financial Data Pipeline**: Automated, streamlined, and visualized trends with Spark + BigQuery.  
 
 ---
+## 🏅 Online Courses & Certifications  
+- **Udemy**:  
+  - *Data Science A-Z: Real Life Exercises Included*  
+  - *Machine Learning A-Z: Hands-on using Python*  
+  - *Tableau 2021 A-Z: Master Tableau for Data Science and BI*  
+- **Udacity**:  
+  - *SQL for Data Analysis*  
+  - *Data Wrangling with MongoDB*  
+- **Kaggle Micro Courses**:  
+  - Pandas, Intro to Machine Learning, Intermediate ML, NLP, Feature Engineering, Intro to SQL (Google’s BigQuery).  
+
+---
 
 ## 🏆 **Accomplishments & Quirks**:  
 - 🥈 **UNT DataRush Challenge**: Second place in regression showdown!  
