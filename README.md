@@ -90,7 +90,7 @@ When I’m not training machine learning models or analyzing trends, you’ll fi
 - **Programming**: Python, R, SQL.  
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn, Tableau.  
 - **Machine Learning**: Scikit-learn, TensorFlow (basics), PyTorch (basics).  
-- **NLP & Deep Learning**: Basics of LSTM, CNN, and Transformers.  
+- **NLP & Deep Learning**: Basics of LSTM, CNN, LLMs and Transformers.  
 - **Data Handling**: Data cleaning, feature engineering, exploratory data analysis (EDA).  
 
 ### ☁️ Cloud & Big Data  
