@@ -10,8 +10,6 @@
 
 > _"In a world full of noise, I find patterns."_  
 > _"while(!(success = try())); // My favorite debugging mantra."_
->
-> ![Image Description](https://github.com/KATREDDIDURGA/KATREDDIDURGA/blob/main/chanakya.jpg)
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sri-sai-durga-katreddi-/)  
