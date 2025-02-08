@@ -76,6 +76,9 @@ When I’m not training machine learning models or analyzing trends, you’ll fi
 - **Text Classification with Naive Bayes**: Natural Language Processing, Text Classification, Naive Bayes, Python.
 - **Wildfire Prediction**: LSTM, Transformers, Machine Learning, NASA MODIS Data, Python.
 - **Altriva: AI-Powered Medical Assistant**: Retrieval-Augmented Generation, LangChain, FAISS, Streamlit, Python.
+- 
+
+-and many more. Feel free to roam around.
 ---
 
 ## 🏅 Online Courses & Certifications  
