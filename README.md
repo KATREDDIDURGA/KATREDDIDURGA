@@ -37,24 +37,54 @@ When I’m not training machine learning models or analyzing trends, you’ll fi
 ---
 
 ## 💼 **Professional Mischief**:  
-### 🔧 **Data Analyst** @ University of North Texas (2023 - 2024):  
-- 🕵️ Dug through mountains of data to uncover gold (aka insights).  
-- 🎨 Created stunning visualizations that even Picasso would envy.  
-- 🤝 Collaborated with researchers to make data sing and dance (statistically speaking).  
+### 🔧 **Student Researcher** @ University of North Texas (2023 - 2024):  
+- Developed and deployed applied machine learning (ML) models for predictive analysis and forecasting, utilizing
+algorithms such as Random Forest, Gradient Boosting Machines (GBM), and XGBoost to predict customer churn
+with 92% accuracy, driving retention strategies.
+- Conducted extensive data analysis and preprocessing using SQL to extract, clean, and structure data from relational
+databases and optimize data pipelines for ML tasks.
+- Built and fine-tuned regression models such as Linear Regression and Support Vector Machines (SVM) to predict
+sales trends, enabling more accurate business forecasting.
+- Employed text mining techniques to analyze unstructured customer feedback, utilizing Natural Language Processing
+(NLP) methods like TF-IDF, Word2Vec, and Latent Dirichlet Allocation (LDA) for topic modeling to uncover key
+themes in customer sentiment.
+- Applied neural networks to image classification tasks in a computer vision project, using Convolutional Neural
+Networks (CNNs) for defect detection in manufacturing processes, improving quality control by identifying defects with
+90% accuracy.
+- Led the implementation of real-time streaming analytics using Apache Spark and MLlib for distributed data processing
+and machine learning at scale, optimizing the time to generate insights from millions of records.
+- Implemented feature engineering and hyperparameter optimization for deep learning models, such as Recurrent Neural
+Networks (RNNs), to improve predictions on time-series data for inventory management and demand forecasting.
+- Utilized k-means clustering and hierarchical clustering for customer segmentation, identifying key customer groups to
+tailor personalized marketing strategies and drive a 10% increase in engagement.
+- Collaborated with engineering teams to integrate predictive models into production systems, ensuring seamless deployment
+of machine learning models with monitoring and automated retraining using scikit-learn and TensorFlow.
+- Conducted model validation and performance evaluation using techniques like cross-validation, ROC curves, and
+confusion matrices to ensure the robustness and accuracy of models before production deployment.
 
 ### 🤖 **Programmer Analyst** @ Cognizant Technology Solutions (2020 - 2022):  
-- Automated boring tasks and became the office superhero (VBA Macros + Python = 🦸).  
-- Built a Power BI dashboard that reduced report time by 15% and earned an “overtime hero” badge.  
-- Tuned an XGBoost model so sharp it could cut through inaccuracies.  
-
-### 🛡️ **Cybersecurity Intern** @ Supraja Technologies (2018):  
-- Learned the art of hacking (ethically 🕶️).  
-- Explored vulnerabilities like a detective on a mission.  
-
+- Developed and deployed a Gradient Boosted Trees (XGBoost) model for forecasting default risk, influencing case
+setup, credit limit decisions, and promotional offers for US small business credit cards.
+- Conducted Proof of Concept (POC) for a default stacking model, achieving a Gini lift of 150 basis points and
+capturing an additional 5% of defaulters, resulting in a 6 million dollar pre-tax income gain.
+- Architected the modeling pipeline, utilizing Hadoop MapReduce for distributed ETL and AWS compute resources
+for scalable model training with XGBoost.
+- Productionized the default risk model for 1.5 million monthly card-members, enabling real-time case setup, credit
+limit decisions, and promotional offers.
+- Collaborated with cross-functional teams, including business analysts and marketing, to ensure model alignment with
+business goals and objectives.
+### **Associate Data Scientist** @ Greenko Group (2020)
+- Built end-to-end forecasting pipelines using Python, Pandas, NumPy, and TensorFlow, optimizing electricity price
+prediction in India’s renewable energy market.
+- Preprocessed large-scale time-series data from MongoDB using PyMongo, filling missing 15-minute blocks with
+profile-based imputation and applying feature engineering (lags, sine/cosine transformations).
+- Developed and executed 24 machine learning models, including Autoregressive models (StatsModels), Autoregressive
+Differencing Models, and CNNs (Keras, TensorFlow), achieving an average RMSE of INR 1000/MW.
+- Designed a KNN-driven dynamic ensemble that intelligently averaged predictions from 24 models based on temporal pattern
+similarity, improving forecast stability.
+- Enhanced power trading strategy by providing data-driven price forecasts, helping management make informed buy/sell
+decisions in markets.
 ---
-
-
-
 
 ## 🚀 **Projects I’m Proud Of:**  
 - **Wildfire Prediction**: Exploring advanced machine learning models like LSTM and Transformers to enhance wildfire hotspot prediction accuracy. Leveraging NASA’s MODIS satellite data to support environmental sustainability.
